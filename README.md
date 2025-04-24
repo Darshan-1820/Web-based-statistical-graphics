@@ -11,3 +11,6 @@ SVG (Scalable Vector Graphics) for drawing charts (bar, pie, etc.).
 JavaScript for interactivity.
 
 CSS for visual styling.
+
+
+Site live on https://darshan-1820.github.io/Web-based-statistical-graphics/
